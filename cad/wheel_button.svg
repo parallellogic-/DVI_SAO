@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="34.64115502561525mm"
+   height="18.179238333835595mm"
+   viewBox="0 0 34.64115502561525 18.179238333835595"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="wheel_button.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="6.7671194"
+     inkscape:cx="65.389714"
+     inkscape:cy="34.357307"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="Part__Part2DObjectPython001"
+     transform="translate(18.386664,19.339619) scale(1,-1)">
+    <path
+       id="Part__Part2DObjectPython001_w0000"
+       d="M -18.047044706725643 5.941731847992295 A 18.0666 18.0666 0 0 0 -1 16.3993L -0.9999999999999993 15.515867929817814 A 14.0861 14.0861 0 0 1 -12.1184 4.47784A 12.0975 12.0975 0 0 0 -1 10.332L -0.9999999999999993 9.548821238644823 A 8.21284 8.21284 0 0 1 -6.2702 3.112A 7 7 0 0 0 1 6.9282A 8.73 8.73 0 0 0 9.86322 1.5A 11.5681 11.5681 0 0 1 1 12.9509A 14.6114 14.6114 0 0 0 15.9149 1.5A 17.5435 17.5435 0 0 1 1 18.9737A 19 19 0 0 1 -18.047 5.94173"
+       stroke="#f1f3f5"
+       stroke-width="0.7 px"
+       style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <title
+       id="title1">b'Part__Part2DObjectPython001'</title>
+  </g>
+</svg>
